@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "335791765583",
+    "firebase_url": "https://developdroid-market-default-rtdb.firebaseio.com",
+    "project_id": "developdroid-market",
+    "storage_bucket": "developdroid-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335791765583:android:92c0a3620f4177cdfb523a",
+        "android_client_info": {
+          "package_name": "com.angee.developdroidmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335791765583-ia0br3q80ftbjojb2d4uoga7u1j78d1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angee.developdroidmarket",
+            "certificate_hash": "bf9d0e3bd8563416c92ce75a349d2687b0403111"
+          }
+        },
+        {
+          "client_id": "335791765583-o8pcpk8nh7afjd002i94rh87hps46ebf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNlbkkX6yGl3o5fr8svM2aYpR9dcRY9Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335791765583-o8pcpk8nh7afjd002i94rh87hps46ebf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
