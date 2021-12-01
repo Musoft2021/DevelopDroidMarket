@@ -1,0 +1,2 @@
+com/angee/developdroidmarket/BuildConfig.java
+ com.angee.developdroidmarket.BuildConfig

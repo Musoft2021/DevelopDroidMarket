@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-xhdpi_develop.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-xhdpi/develop.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/layout_fragment_about.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_appleicon.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-xxxhdpi/appleicon.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/layout_nav_header.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/layout/nav_header.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/layout_fragment_detail.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/layout_activity_form.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/layout/activity_form.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/drawable_iphone12.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/drawable/iphone12.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/layout_activity_home.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/drawable-v24_google.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/drawable-v24/google.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/drawable_customborder.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/drawable/customborder.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/drawable_side_nav_bar.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/drawable_watch.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/drawable/watch.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-hdpi_develop.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-hdpi/develop.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/layout_fragment_product.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/layout/fragment_product.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/drawable_ic_menu_slideshow.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/drawable_ventastecnologia.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/drawable/ventastecnologia.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_iphone12.jpeg.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-xxxhdpi/iphone12.jpeg"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_promax.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-xxxhdpi/promax.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/drawable_promax.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/drawable/promax.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-hdpi_google2.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-hdpi/google2.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-mdpi_ventastecnologia.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-mdpi/ventastecnologia.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_walkmansony.jpeg.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-xxxhdpi/walkmansony.jpeg"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/drawable-v24_google2.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/drawable-v24/google2.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/drawable-v24_venta.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/drawable-v24/venta.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/menu_nav_menu.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/menu/nav_menu.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_applewatchs6.jpeg.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-xxxhdpi/applewatchs6.jpeg"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/layout_content_activity_list.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/layout/content_activity_list.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-mdpi_google.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-mdpi/google.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-mdpi_develop.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-mdpi/develop.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/navigation_nav_graph.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/layout_fragment_to_do.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/layout/fragment_to_do.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/drawable_ic_menu_gallery.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/drawable_splasscreen.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/drawable/splasscreen.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-mdpi_venta.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-mdpi/venta.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/drawable-v24_develop.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/drawable-v24/develop.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/layout_task_list_items.xml.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/layout/task_list_items.xml"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_develop.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-xxhdpi/develop.png"
+    },
+    {
+        "merged": "/Users/angeetorres/AndroidStudioProjects/develop/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_appleiphone.png.flat",
+        "source": "/Users/angeetorres/AndroidStudioProjects/develop/app/src/main/res/mipmap-xxxhdpi/appleiphone.png"
+    }
+]
