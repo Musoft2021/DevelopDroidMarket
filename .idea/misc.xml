@@ -21,7 +21,7 @@
         <entry key="app/src/main/res/layout/activity_list.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.19" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.20491803278688525" />
-        <entry key="app/src/main/res/layout/activity_new_task.xml" value="0.19948717948717948" />
+        <entry key="app/src/main/res/layout/activity_new_task.xml" value="0.25" />
         <entry key="app/src/main/res/layout/content_activity_list.xml" value="0.15" />
         <entry key="app/src/main/res/layout/fragment_about.xml" value="0.21" />
         <entry key="app/src/main/res/layout/fragment_detail.xml" value="0.25" />
