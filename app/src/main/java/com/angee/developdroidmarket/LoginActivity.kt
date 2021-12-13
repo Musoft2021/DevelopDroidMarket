@@ -170,6 +170,12 @@ class LoginActivity : AppCompatActivity() {
 
         }
     }
+
+    fun onRecovery(view: android.view.View) {
+        val recoveryIntent = Intent(this, RecoverActivity::class.java)
+        startActivity(recoveryIntent)
+        getToast(resources.getString(R.string.test_Recovery));
+    }
 }
 
 

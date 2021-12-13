@@ -121,7 +121,18 @@
                 android:text="Google"
                 android:textAlignment="textStart"
                 android:textColor="@color/black" />
-
+            <Button
+                android:id="@+id/recovery"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onRecovery"
+                android:gravity="center"
+                android:padding="20px"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/test_RecoveryQuestion"
+                android:linksClickable="true"
+                android:backgroundTint="@android:color/transparent"
+                android:textColor="@color/red_200" />
 
         </LinearLayout>
 

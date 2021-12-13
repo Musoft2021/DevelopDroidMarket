@@ -34,6 +34,9 @@
     <string name="text_Iphone12">Iphone 12</string>
     <string name="text_Iphone12p">Iphone 12 Pro Max</string>
     <string name="text_Watch1">Watch S6</string>
+    <string name="test_login">Login</string>
+    <string name="test_userExample">example@domain.com</string>
+    <string name="test_EmptyMail">Empty email</string>
     <string name="text_Iphonepro">Iphone</string>
     <string name="text_Watch">Watch</string>
     <string name="text_errorlogin">Invalid email or password</string>
@@ -42,7 +45,9 @@
     <string name="text_character">At least one character</string>
     <string name="text_EmptyMail">Empty email</string>
     <string name="text_digit">At least one number</string>
-    <string name="default_web_client_id2" translatable="false">335791765583-o8pcpk8nh7afjd002i94rh87hps46ebf.apps.googleusercontent.com</string>
+    <string name="test_Recovery">Recovery</string>
+    <string name="test_RecoveryQuestion">¿Have you forgotten your password?</string>
+    <string name="default_web_client_id2" translatable="false">335791765583:android:92c0a3620f4177cdfb523a.apps.googleusercontent.com</string>
     <string name="test_passwordlength">Minimum Password Eight Characters</string>
     <string name="test_TermsLink">Terms and conditions</string>
     <string name="test_TermsMessage">Accept all policies, security and terms when registering.</string>
